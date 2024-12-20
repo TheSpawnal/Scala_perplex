@@ -10,8 +10,12 @@ def b(f: (Int, Int) => Int, x : Int) =
 
 def b : ((Int => Int) => Int) => Int =
 
-def b(f: (Int, Int) => Int) : (Int => Int) = <-
+def b(f: (Int, Int) => Int) : (Int => Int) = 
 
-def b : ((Int, Int) => Int) => Int => Int = <-
+def b : ((Int, Int) => Int) => Int => Int = 
 
-def b : ((Int, Int) => Int) => (Int =>Int) = <-
+def b : ((Int, Int) => Int) => (Int =>Int) = 
+
+
+
+(D,E,F)
