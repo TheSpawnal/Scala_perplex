@@ -21,13 +21,13 @@ which are true ? 0 or more
 
 the class Cat can be extended outside this file
 
-the class Animal could have concrete methods <-
+the class Animal could have concrete methods 
 
-the class Cat must implement the speak method <-
+the class Cat must implement the speak method 
 
 the class Parrot can be subclassed in this file
 
-Parrot could override kingdom <-
+Parrot could override kingdom
 
 Cat can override className
 
