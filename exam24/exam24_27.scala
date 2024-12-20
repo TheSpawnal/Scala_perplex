@@ -14,8 +14,11 @@ def main(args: Array[String]) : Unit = println(f(2))
 
 what is the output of main:
 
-5 <-
+5
 0
 1
 7
 2
+
+
+(A)
