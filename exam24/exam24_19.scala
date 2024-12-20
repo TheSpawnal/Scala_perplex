@@ -24,6 +24,9 @@ def main(args: Array[String]) = {
 what does main print ? 
 
 Cons(1, Cons(1,Cons(2,Cons(2,Cons(3,Cons(3, Nl))))))
-Cons(3, Cons(2, Cons(1, Nl)))<-
+Cons(3, Cons(2, Cons(1, Nl)))
 Cons(2, Nl)
 Cons(1, Cons(2, Cons(3, Nl)))
+
+
+(B)
