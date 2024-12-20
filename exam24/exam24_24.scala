@@ -17,3 +17,6 @@ Nothing
 (monkey,hairy,animal) <-
 (animal, hairy, animal) <-
 (animal, monkey,animal)
+
+
+(A,C,D)
