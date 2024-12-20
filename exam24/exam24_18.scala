@@ -25,9 +25,11 @@ what does main print?
 
 Plus(Plus(Const(0), Var("x")), Plus(Var("y"), Const(0)))
 
-Plus(Var("x"), Plus(Var("y"), Const(0)) <-
+Plus(Var("x"), Plus(Var("y"), Const(0))
 
 Plus(Var("x"), Var("y"))
 
 Plus(Plus(Const(0), Plus(Const(0), Var("x"))), Plus(Var("y"), Const(0)))
+
+    (B)
 
