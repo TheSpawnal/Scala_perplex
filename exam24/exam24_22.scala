@@ -14,8 +14,11 @@ val l = List(new B, new C, new D)
 what types does l have ? 1 or more. tip : draw a diagram !
 
 List[P]
-List[Z]<-
-List[Any]<-
+List[Z]
+List[Any]
 List[Y]
 List[A]
-List[X] <-
+List[X] 
+
+
+(B,C,F)
