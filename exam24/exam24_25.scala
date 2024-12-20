@@ -24,6 +24,9 @@ and t is the tail (the rest of the list). Nil is the empty ​list
 
 List(5,4,3,2,1)
 List(5,6,11,17)
-List(1,2,3,5,8) <-
+List(1,2,3,5,8) 
 List(1,2,3,4,5)
 List((1,2,3))
+
+
+(C)
