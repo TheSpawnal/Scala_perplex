@@ -16,8 +16,12 @@ def c( b: Boolean) : String = {
 
 what types can in fill in for T so that there is no error ? select 1 or more
 
-(P,Q) <-
+(P,Q)
 (A,C)
 (Any,Any)
 Any
-(A,D) <-
+(A,D)
+
+
+
+(A,E)
