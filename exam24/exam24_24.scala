@@ -12,10 +12,10 @@ val p = (GBox(new monkey).a, hairyBox(new monkey).a, animalBox(new monkey).a)
 
 what types does p have ? select 1 or more
 
-Any <-
+Any 
 Nothing
-(monkey,hairy,animal) <-
-(animal, hairy, animal) <-
+(monkey,hairy,animal) 
+(animal, hairy, animal) 
 (animal, monkey,animal)
 
 
