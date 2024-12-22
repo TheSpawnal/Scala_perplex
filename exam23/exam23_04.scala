@@ -25,7 +25,9 @@ def main(args: Array[String]): Unit = {
 
 
  What will this program print? (left code goes above right code)
- A 12<-
+ A 12
  B 9
  C 8 
  D 14
+
+(A)
