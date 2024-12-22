@@ -39,9 +39,12 @@ def n(x: Int): Int = {
     a+b+c+b
 }
 
-D: <-
+D: 
 def r: Int => Int = x => {
     val a = im(x)
     val c = im(x)
     a + p(x) + c + p(x)
 }
+
+
+(C,D)
