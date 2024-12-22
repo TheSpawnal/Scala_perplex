@@ -12,11 +12,14 @@ to the one above
 A: 
 def b(f : Int => Int, x: Int): Int = 
 
-B:<-
+B:
 def b(f : Int => Int) : Int => Int = x => 
 
 C:
 def b : Int => Int => Int => Int = f => x =>
 
-D:<-
+D:
 def b(f : Int => Int)(x: Int) : Int =
+
+(B,D)
+
