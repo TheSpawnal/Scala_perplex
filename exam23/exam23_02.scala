@@ -20,5 +20,7 @@ def main(args: Array[String]): Unit = {
  What does this code print?
  A 35 
  B 150
- C 10 <-
+ C 10 
  D 75
+
+(C)
