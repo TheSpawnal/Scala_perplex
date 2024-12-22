@@ -20,7 +20,7 @@ What does this program print?
  B (Hello,World)
  (Hello,World)
  
- C (Hi,Everyone!) <-
+ C (Hi,Everyone!)
  (Hi,Everyone!)
  
  D (Hi,World)
@@ -28,3 +28,5 @@ What does this program print?
  
  E (Hello,World)
  (Hi,Everyone!)
+
+(C)
