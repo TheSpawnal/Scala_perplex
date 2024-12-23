@@ -15,6 +15,9 @@ val l = Mul(Const(1), Mul(Const(1), Mul(Const(1), Const(1)))).simplify
 
  What is the value of l?
  A Mul(Const(1), Mul(Const(1),Mul(Const(1),Const(1))))
- B Const(1) <-
+ B Const(1) 
  C Mul(Const(1), Mul(Const(1),Const(1)))
  D Mul(Const(1), Const(1))
+
+
+(B)
