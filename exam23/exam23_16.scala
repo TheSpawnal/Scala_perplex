@@ -23,8 +23,11 @@ def main(args: Array[String]): Unit = {
 
 What does this program print?
  Recall that l.updated(i,x) gives a new list, which is like l, but where the element at index i has been replaced by x.
- A 1 2 3 3 <-
+ A 1 2 3 3 
  B 1 1 1 1 
  C 1 2 3 4
  D 1 2 1 1
  E 1 2 1 2
+
+
+(A)
