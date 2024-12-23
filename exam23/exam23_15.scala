@@ -13,7 +13,9 @@ List[Bird] => Printer[Bird]
 
  A List[Ostrich] => Printer[Ostrich]
  B List[Animal] => Printer[Ostrich]
- C List[Any] => Printer[Any] <-
- D List[Any] => Nothing <-
- E List[Animal] => Printer[Animal] <-
+ C List[Any] => Printer[Any] 
+ D List[Any] => Nothing 
+ E List[Animal] => Printer[Animal] 
+
+(C,D,E)
 
