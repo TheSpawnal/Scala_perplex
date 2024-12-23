@@ -19,11 +19,13 @@ printPrinter(new Printer[E])
 B:
 printPrinter(new Printer[Nothing])
 
-C:<-
+C:
 printPrinter(new Printer[A])
 
-D:<-
+D:
 printPrinter(new Printer[B])
 
-E:<-
+E:
 printPrinter(new Printer[Any])
+
+(C,D,E)
