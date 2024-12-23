@@ -17,4 +17,6 @@ val y = x.flatMap(x => if(x == 10) Right(6) else Left("No"))
  A Right(Left("No"))
  B Right(Right(Left("No")))
  C Right(6)
- D Left("No") <-
+ D Left("No")
+
+(D)
