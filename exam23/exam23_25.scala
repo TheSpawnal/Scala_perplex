@@ -21,5 +21,7 @@ def main(args: Array[String]): Unit = {
 What does main print?
  A <sound><sound><sound><sound>
  B <sound><sound>WoofMiauw
- C MiauwWoofWoofMiauw <-
+ C MiauwWoofWoofMiauw 
  D MiauwWoof<sound><sound>
+
+(C)
