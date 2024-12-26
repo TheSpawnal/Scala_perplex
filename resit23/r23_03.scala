@@ -22,3 +22,6 @@ def main(args: Array[String]): Unit = {
  B 25
  C 125
  D 50
+
+
+(B)
