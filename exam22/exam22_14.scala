@@ -10,4 +10,6 @@ Which of the following calls will not give a type error?
  B b[B,A]((x : A) => x, false)
  C b[A,A]((x : B) => x, "foo")
  D b[A,B]((x : A) => x, 3.0)
- E b[A,A]((x : A) => x, throw new Error("")) <-
+ E b[A,A]((x : A) => x, throw new Error("")) 
+
+(E)
