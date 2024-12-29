@@ -16,6 +16,6 @@ def main(args: Array[String]): Unit = {
 What does main print?
  A-20
  B 40
- C 0 <-
+ C 0 
  D 10
  E-10
