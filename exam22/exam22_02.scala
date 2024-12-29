@@ -20,7 +20,9 @@ def main(args: Array[String]): Unit = {
 }
 
  What is the output of main?
- A 36,22 <-
+ A 36,22 
  B 6, 14
  C 24, 14
  D 48, 30
+
+(A)
