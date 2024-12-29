@@ -2,7 +2,7 @@
 
 which of the functions below implement foldLeft ? Select 0 or more
 
-A: <-
+A: 
 def fl1[A,B](i:B)(f : (B,A) => B)(l : Seq[A]) : B = {
     var res = i
     for(e <- l)
@@ -10,7 +10,7 @@ def fl1[A,B](i:B)(f : (B,A) => B)(l : Seq[A]) : B = {
     res
 }
 
-B:<-
+B:
 @tailrec
 def fl2[A,B](i:B)(f : (B,A) => B)(l : Seq[A]) : B = {
     if(l.isEmpty) i
@@ -23,7 +23,7 @@ def fl3[A,B](i:B)(f : (B,A) => B)(l : Seq[A]) : B = {
     else f(l.head, fl3(i)(f)(l.tail))
 }
 
-D:<-
+D:
 def fl4[A,B](i:B)(f : (B,A) => B)(li : Seq[A]) : B = {
     var res = i
     var l = li
@@ -33,3 +33,6 @@ def fl4[A,B](i:B)(f : (B,A) => B)(li : Seq[A]) : B = {
     }
     res
 }
+
+
+(A,B,D)
