@@ -22,7 +22,7 @@ def main(args: Array[String]): Unit = {
 
 
 What does main print?
- A/ B-A-B, C-A-B  <-
+ A/ B-A-B, C-A-B  
  B/ A-A-B, A-B-A
  C/ A-A-A, A-A-A
  D/ A-A-B, B-A-B
