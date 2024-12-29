@@ -19,12 +19,14 @@ def over(a: C) : String = "C" + a.x
 def main(args: Array[String]): Unit= {
     val x: B = new C
     print(over(x))
-}
+}    
 
- What does main print?
- A BC <-
+ What does main print?            
+ A BC 
  B AA
  C CA
  D AC
  E Anything
  F BB
+
+(A)
