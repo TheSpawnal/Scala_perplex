@@ -11,7 +11,9 @@ What is the most specific type of?
 (Tip: Draw a diagram!)
 
 A (List[A], List[B])
-B (List[B], List[C]) <-
+B (List[B], List[C]) 
 C (List[C], List[C])
 D ( List[A], List[C])
 E (List[B],List[B])
+
+(B)
