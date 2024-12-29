@@ -16,6 +16,8 @@ val l = Plus(PLus(Const(0), Const(0)), Plus(Const(0),Const(0))).simplify
 
 what is the value of l:
  A Plus(Plus(Const(0),Const(0)), Plus(Const(0),Const(0)))
- B Plus(Const(0),Const(0)) <-
+ B Plus(Const(0),Const(0)) 
  C Const(0)
  D Plus(Const(0), Plus(Const(0),Const(0)))
+
+(B)
