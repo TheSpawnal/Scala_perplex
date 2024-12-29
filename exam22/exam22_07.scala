@@ -19,3 +19,5 @@ What does main print?
  C 0 
  D 10
  E-10
+
+(C)
