@@ -19,8 +19,10 @@ def main(args : Array[String]) : Unit = {
 }
 
 What is the output of main?
- A 123126 <-
+ A 123126 
  B 123123
  C 111111
  D 123456
  E 345678
+
+(A)
