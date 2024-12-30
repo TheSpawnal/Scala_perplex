@@ -20,10 +20,12 @@ class Penguin extends Bird(3){
 
 
 What errors will be reported on the above code?
- A Cannot extend final class <-
- B Cannot override final method <-
- C Class must be declared or implement abstract member <-
- D Reassignment to val <-
+ A Cannot extend final class 
+ B Cannot override final method 
+ C Class must be declared or implement abstract member 
+ D Reassignment to val 
  E Class cannot implement multiple traits
  F Class must implement abstract member from Trait
  G Class cannot extend Trait with Class
+
+(A,B,C,D)
