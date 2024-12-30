@@ -15,12 +15,14 @@ val l = List(new D, new E, new F)
  What types does l have? Select 0 or more.
  (Tip: Draw a diagram!)
 
- A List[Any] <-
- B Any  <-
- C List[C] <-
- D List[G] <-
+ A List[Any] 
+ B Any  
+ C List[C] 
+ D List[G] 
  E List[D]
  F List[A]
  G List[B]
  H Nothing
  I Null
+
+(A,B,C,D)
