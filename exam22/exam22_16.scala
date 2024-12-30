@@ -15,9 +15,11 @@ val l : List[Int] = List(1,2,3,4,5)
 val v = (filter(filter(l,f),g).length,filter(l,(x:Int)=>f(x) && g(x)).length)
 
 What is the value of v?
- A (2,0) <-
+ A (2,0) 
  B (2,2)
  C (0,0)
  D (0,2)
  E (5,5)
+
+(A)
 
