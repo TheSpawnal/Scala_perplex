@@ -22,3 +22,6 @@ def up(a: Array[Int]) : Int = {a(0) += 1 ; a(0)}
 D:
 def fy(n: Int) : Seq[Int] =
     for(i <- 0 until n; if i % 3 != 0) yield i
+
+
+(B,D)
