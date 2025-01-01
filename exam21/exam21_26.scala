@@ -14,9 +14,11 @@ trait Transformer[-A, +B]{
  Which are subtypes of the following type?
  Transformer[(Flour,Raisins,Milk), Pancakes]
  Select 0 or more.
- A Transformer[Any, Pancakes] <-
- B Transformer[(Food,Food,Food), RaisinPancakes] <-
+ A Transformer[Any, Pancakes] 
+ B Transformer[(Food,Food,Food), RaisinPancakes] 
  C Transformer[(Food,Food,Food),Food] 
- D Transformer[(Flour,Raisins,Milk), RaisinPancakes] <-
+ D Transformer[(Flour,Raisins,Milk), RaisinPancakes] 
  E Transformer[Any, Food]
- F Nothing <-
+ F Nothing 
+
+(A,B,D,F)
