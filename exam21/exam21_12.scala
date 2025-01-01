@@ -17,7 +17,9 @@ object ArrayM{
 }
 
  What does ArrayM.main print?
- A 36 <-
+ A 36
  B 8
  C 232
  D 42
+
+(A)
