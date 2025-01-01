@@ -29,4 +29,4 @@ object Pattern {
  C 8
  D 4
 
-(D)
+(C)
