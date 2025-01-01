@@ -25,9 +25,12 @@ object DD {
 
 Output of DD.main?
 
- A List(b.b?b,seeb)@
-
+ A List(b.b?b,seeb)
  B List(v.v?v, v.v?v)
  C List(v.v?v, seeb)
  D List(v.v?v, seev)
  E List(v.v?b, seeb)
+
+(A)
+
+
