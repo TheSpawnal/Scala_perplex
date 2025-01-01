@@ -8,6 +8,8 @@ class SetFree[-A](a: A)
 object FunkySub {
     def releaseFun(a : SetFree[Mammal => Mammal]) : Unit = ()
 }
+
+
 Which of the following calls will not result in a type error? Select 0 or more
 A
 FunkySub.releaseFun(new SetFree[Mammal=>Capybara](null)) 
@@ -21,3 +23,5 @@ E
 FunkySub.releaseFun(new SetFree[Capybara=>Animal](null))
 F
 FunkySub.releaseFun(new SetFree[Animal=>Capybara](null))
+
+(B,E)
