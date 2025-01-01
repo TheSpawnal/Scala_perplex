@@ -21,12 +21,15 @@ object Options{
         if(r == 0) None
         else Some(l/r)
     
-    val x = divOption(3,2).flatMap(divOption(_,2)).zipped(divOption(10,5).flatMap(divOption(10,_)))
+    val x = divOption(3,2).flatMap(divOption(_,2))
+        .zipped(divOption(10,5).flatMap(divOption(10,_)))
 }
 
 What is the value of x?
- A Some((0,5)) <-
+ A Some((0,5)) 
  B Some(Some((0,5))
  C Some((Some(0),Some(5)))
  D None
  E Some(None,Some(5))
+
+(A)
