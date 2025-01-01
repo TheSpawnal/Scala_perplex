@@ -28,7 +28,8 @@ object Identity{
 }
 
 What does Identity.main print?
- A 11 <-
+ A 11 
  B 14
  C 9
  D Compile error: Array[Base] cannot hold values of type A (or B).
+
