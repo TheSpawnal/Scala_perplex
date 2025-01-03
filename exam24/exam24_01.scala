@@ -24,4 +24,6 @@ what is the output of main:
 6
 4
 3
-5 <-
+5 
+
+(5)
